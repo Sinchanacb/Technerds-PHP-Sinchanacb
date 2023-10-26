@@ -7,4 +7,10 @@ print"$a<br>";
 echo $a."<br>";
 print"Technerds"."<br>".$a;
 echo"the value is<br>",$a,"name is<br> $b";
+/*
+print"Technerds"."<br>".$a;
+echo"the value is<br>",$a,"name is<br> $b";
+*/
+print"Technerds"."<br>".$a;
+echo("sinchana"."<br>".$b);
 ?>
