@@ -9,5 +9,4 @@ echo $age;
 echo "<br>";
 echo $type;
 echo "<br>";
-
 ?>
